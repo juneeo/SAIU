@@ -240,4 +240,5 @@ public class Printzipala implements PropertyChangeListener {
         Printzipala bista = new Printzipala(modeloa, kontrolatzailea);
         kontrolatzailea.setBista(bista);
     }
+    //hello
 }
