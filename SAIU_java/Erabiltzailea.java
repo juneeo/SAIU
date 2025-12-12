@@ -22,4 +22,5 @@ public class Erabiltzailea {
     public String getPantailaMota() {
         return pantailaMota;
     }
+    // hdfbjh
 }
